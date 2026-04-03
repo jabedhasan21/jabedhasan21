@@ -28,7 +28,7 @@ With over **12+ years of experience** in software development, I specialize in b
 * 🔧 Strong foundation in **Data Structures & Algorithms**
 * 🏗️ Experienced in **System Architecture & Microservices**
 * ☁️ Hands-on with **AWS cloud infrastructure**
-* 📈 Solved **1250+ problems on LeetCode**
+* 📈 Solved **1300+ problems on LeetCode**
 * 📄 Published research in **Natural Language Processing (NLP)**
 
 ---
