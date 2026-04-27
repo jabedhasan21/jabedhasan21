@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi there 👋, I'm Jabed Hasan
 
-🚀 **Lead Software Engineer | Solution Architect | Full-Stack Engineer **
+🚀 **Lead Software Engineer | Solution Architect | Full-Stack Engineer**
 
 ---
 
