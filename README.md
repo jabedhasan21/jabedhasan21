@@ -93,7 +93,7 @@ With over **12+ years of experience** in software development, I specialize in b
 
 ### ⚙️ Frameworks & Tools
 
-`Spring Boot` `Node.js` `Express.js` `NestJS` `Laravel`
+`Spring Boot` `Node.js` `Express.js` `NestJS` `Laravel` `React.js` `Next.js` `Vue.js`
 
 ### ☁️ Cloud & DevOps
 
